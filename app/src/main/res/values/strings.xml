@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TP2</string>
+
+    <string name="login">Pas de compte? Cliquez ici.</string>
+
+    <string name="nomUtilisateur">Nom d\'utilisateur</string>
+    <string name="motDePasse">Mot de passe</string>
+    <string name="ok" translatable="false">OK</string>
+
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="email">Email</string>
+    <string name="age">Âge</string>
+    <string name="mdp">Mot de passe</string>
+
+    <string name="modifInfo">Modifier les informations</string>
+    <string name="modifPhoto">Modifier la photo</string>
+
+    <string name="texteAccueil">Bienvenue!</string>
+    <string name="explication">Le jeu consiste à comparer deux images en sélectionnant votre préférée.
+        Si l\'image inférieure est meilleure que celle du dessus, swipez vers la droite. Sinon, faites de
+        même vers la gauche.</string>
+
+    <string-array name="listArray">
+        <item>Français</item>
+        <item>Anglais</item>
+    </string-array>
+
+    <string-array name="listValues">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+
+</resources>
